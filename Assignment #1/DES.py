@@ -1,3 +1,8 @@
+# Raymundo Romero Arenas
+# ID = 2369764
+# Network Security & Cryptography
+# Teacher = Mark Ryan
+
 # Hexadecimal to binary conversion
 def hex2bin(s):
     mp = {'0' : "0000",

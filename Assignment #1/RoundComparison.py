@@ -1,3 +1,8 @@
+# Raymundo Romero Arenas
+# ID = 2369764
+# Network Security & Cryptography
+# Teacher = Mark Ryan
+
 def hex2bin(s):
     mp = {'0' : "0000",
           '1' : "0001",
