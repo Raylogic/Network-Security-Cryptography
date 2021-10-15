@@ -1,3 +1,8 @@
+# Raymundo Romero Arenas
+# ID = 2369764
+# Network Security & Cryptography
+# Teacher = Mark Ryan
+
 import hashlib
 
 # Hash dicitionary
