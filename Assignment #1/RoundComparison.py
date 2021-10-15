@@ -1,8 +1,3 @@
-# Raymundo Romero Arenas
-# ID = 2369764
-# Network Security & Cryptography
-# Teacher = Mark Ryan
-
 def hex2bin(s):
     mp = {'0' : "0000",
           '1' : "0001",
@@ -57,6 +52,7 @@ def bin2hex(s):
 # Code reference: 
 # Jain, A. 2021, “Data encryption standard (DES) | Set 1” (01/10/2021), Recovered from: https://www.geeksforgeeks.org/data-encryption-standard-des-set-1/
 
+# XOR two ciphers
 def bitXOR(s1,s2):
     ans = ""
     for i in range(0,len(s1)):
